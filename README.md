@@ -1,2 +1,3 @@
-# 2D_DayNightSystem
-An day and night system I created inside of the unity game engine.
+# 2D Day and Night System
+
+A system that similates an day and night cycle. Look in the demo scene to see how to setup and use the system.
