@@ -6,7 +6,7 @@ You can integrate the Compass system into your Unity project by either importing
 
 1. In this repository, navigate to the `UnityPackages` folder.
 2. Choose one of the following packages:
-   - `DayNightSystem2D`: Contains only the core compass system.
+   - `DayNightSystem2D`: Contains only the core day-night system.
    - `DayNightSystem2D_WithDemo`: Includes the core system along with a demo scene.
 3. Click on your preferred package, then click the three dots (`...`) on the right side.
 4. Select **Download** from the dropdown menu.
