@@ -17,7 +17,7 @@ You can integrate the Day Night system into your Unity project by either importi
 6. In the **Project** window, right-click and choose **Import Package > Custom Package...**.
 7. Locate the `.unitypackage` file you just downloaded and click **Open** to import it.
 
-> ℹ️ **Note:** If you imported the `DayNightSystem2D_WithDemo` package and want to remove the demo content, you can delete the `LordBreakerX/...` folder from your project's `Assets` directory.
+> ℹ️ **Note:** If you imported the `DayNightSystem2D_WithDemo` package and want to remove the demo content, you can delete the `LordBreakerX/DayNight/Demo` folder from your project's `Assets` directory.
 
 ## Option 2: Downloading the Full Project as a ZIP
 
@@ -28,4 +28,4 @@ You can integrate the Day Night system into your Unity project by either importi
    - Open Unity Hub and add the unzipped folder as a full Unity project.
    - Or, if you want to add the Compass system to an existing Unity project, drag the `LordBreakerX` folder into your project's **Assets** folder or directly into the **Project** window in Unity.
 
-> ⚠️ **Note:** This option includes the demo content by default, located at `LordBreakerX/...` folder from your project's `Assets` directory. If you prefer not to include the demo, you can simply delete this folder after importing.
+> ⚠️ **Note:** This option includes the demo content by default, located at `LordBreakerX/DayNight/Demo` folder from your project's `Assets` directory. If you prefer not to include the demo, you can simply delete this folder after importing.
