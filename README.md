@@ -1,6 +1,6 @@
 # Adding the 2D Day Night System to Your Unity Project
 
-> ⚠️ ** Important **
+> ⚠️ **Important**
 > This system is designed **only for 2D Unity projects using the Universal Render Pipeline (URP)**.  
 > It is **not compatible** with 3D projects or projects using the Built-in Render Pipeline or HDRP.
 
