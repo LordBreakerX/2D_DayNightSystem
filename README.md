@@ -3,7 +3,7 @@
 > ⚠️ This system is designed **only for 2D Unity projects using the Universal Render Pipeline (URP)**.  
 > It is **not compatible** with 3D projects or projects using the Built-in Render Pipeline or HDRP.
 
-You can integrate the Day Night system into your Unity project by either importing it as a Unity package or by downloading the full project as a ZIP file. The method you choose depends on how you want to access and use the Day Night (with or without demo content).
+You can integrate the Day Night system into your Unity project by either importing it as a Unity package or by downloading the full project as a ZIP file. The method you choose depends on how you want to access and use the Day Night system (with or without demo content).
 
 ## Option 1: Importing the Unity Package
 
