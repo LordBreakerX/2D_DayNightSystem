@@ -1,6 +1,6 @@
 # Adding the 2D Day Night System to Your Unity Project
 
-You can integrate the Compass system into your Unity project by either importing it as a Unity package or by downloading the full project as a ZIP file. The method you choose depends on how you want to access and use the Compass system (with or without demo content).
+You can integrate the Day Night system into your Unity project by either importing it as a Unity package or by downloading the full project as a ZIP file. The method you choose depends on how you want to access and use the Day Night (with or without demo content).
 
 ## Option 1: Importing the Unity Package
 
